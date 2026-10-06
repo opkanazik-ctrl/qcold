@@ -1,0 +1,11 @@
+[General]
+Enabled = true
+
+[Chaos]
+EventIntervalSeconds = 18
+MaxLocalCreeps = 8
+AbilityDurationSeconds = 8
+SpawnPrototypeCreeps = true
+
+[Debug]
+Verbose = false

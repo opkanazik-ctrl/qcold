@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+PEAK/
+BepInEx/
+PEAK.exe
+PEAK_Data/
+*.dll
+*.pdb
+*.zip
+Thumbs.db
+.DS_Store
